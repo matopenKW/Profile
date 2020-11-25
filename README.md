@@ -5,3 +5,15 @@
 現在はフリーランスエンジニアとして活動中。 勉強は比較的好きな方でバックエンドが主な業務です。 経験上フロントは多くないが読めます、書けます。但し、デザインは苦手です。（センスもなし）  
 ものづくりも好きな方ですが手先は不器用。キャンプからスノボ、釣り、天体観測とアウトドアが大好きです！!  
 
+## スキル
+### 言語
++ Java
+    + SpringBoot / SpringMVC / Struts2 / Seasar2 / Java Servlet
++ Go
+    + gin / echo / grpc-gateway
++ Swift
++ javascript
+    + jQuery / React(0.5年) / Nuxt.js(0.5年)
++ HTML
++ CSS
+
