@@ -8,12 +8,23 @@
 ## スキル
 ### 言語
 + Java
-    + SpringBoot / SpringMVC / Struts2 / Seasar2 / Java Servlet
+    + SpringBoot | SpringMVC | Struts2 | Seasar2 | Java Servlet
 + Go
-    + gin / echo / grpc-gateway
+    + gin | echo | grpc-gateway
 + Swift
 + javascript
-    + jQuery / React(0.5年) / Nuxt.js(0.5年)
+    + jQuery | React(0.5年) | Nuxt.js(0.5年)
 + HTML
 + CSS
 
+### DB
++ RDS
+    + Oracle | PostgreSQL | MySQL
++ NoSQL
+    + Cloud Firestore
+
+### クラウドインフラ
++ AWS
+    + EC2 | S3 | ECS
++ GCP
+    + GCE | GAE/SE | GKE(絶賛業務で使用、勉強中)
