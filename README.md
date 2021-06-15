@@ -10,7 +10,7 @@
 + Java
     + SpringBoot | SpringMVC | Struts2 | Seasar2 | Java Servlet
 + Go
-    + gin | echo | grpc-gateway
+    + gin | echo
 + Swift
 + javascript
     + jQuery | React(0.5年) | Nuxt.js(0.5年)
@@ -27,7 +27,10 @@
 + AWS
     + EC2 | S3 | ECS
 + GCP
-    + GCE | GAE/SE | GKE(絶賛業務で使用、勉強中)
+    + GAE/SE | GKE | BigQuery | Firebase | Cloud Functions
+
+### CI/CDツール
++ GitHub Actions | CircleCI | CloudBuild | ArgoCD
 
 ## 経歴
 ### BtoB,BtoC向けマッチングサービス
