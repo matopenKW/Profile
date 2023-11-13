@@ -15,8 +15,6 @@
 + Swift
 + javascript
     + jQuery | React(0.5年) | Nuxt.js(0.5年)
-+ HTML
-+ CSS
 
 ### DB
 + RDS
