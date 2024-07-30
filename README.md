@@ -29,12 +29,15 @@
 + AWS
     + 基本的なAWSサービスは触れますが深くまではやってはいません。
     + よく触ったサービス
-      + EC2 | S3 | ECS
+      + EC2 | S3 | ECS　| RDB
 + GCP
     + コアなサービスを除いて割と何でもやりました。
++ Azure
+    + VM | RDB | ACS | Azure Active Directory
 + herorku
-    + 微経験ありです。
+    + 微経験あり
 #### インフラスキル
++ Kubernetes
 + terraform | terraform cloud
 + Datadog
     + Logs | Monitors | Metrics | Tracing | Dashboards
