@@ -1,20 +1,23 @@
 # 業務経歴書
 
 ## 自己紹介
-理工学部物理学系を卒業。新卒でITベンチャーに入社しSESとして業務アプリケーション開発を行う。 基本設計から保守工程まで一通りこなす。 自社の開発や研究等でとしてCMSでHPを作成する事も。  
-現在はフリーランスエンジニアとして活動中（一人法人）。 勉強は比較的好きな方でバックエンドが主な業務です。 経験上フロントは多くないが読めます、書けます。但し、デザインは苦手です。（センスもなし）  
+理工学部物理学系を卒業。
+新卒でITベンチャーに入社しSESとして業務アプリケーション開発を行う。
+その後フリーランスに転身して、スタートアップからメガベンまで経験してきました。
+勉強は比較的好きな方でバックエンドが主な業務です。 経験上フロントは多くないが読めます、書けます。但し、デザインは苦手です。（センスもなし）  
 ものづくりも好きな方ですが手先は不器用。キャンプからスノボ、釣り、天体観測とアウトドアが大好きです！!  
-最近はGoよく触ってます。
+Goよく触っており、最近は仕事は負債解消屋さんです。
 
 ## スキル
 ### 言語
-+ Java
-    + SpringBoot | SpringMVC | Struts2 | Seasar2 | Java Servlet
 + Go
-    + gin | echo
+    + Senior Level
++ Java
+    + Senior Level
 + Swift
-+ javascript
-    + jQuery | React(0.5年) | Nuxt.js(0.5年)
+    + Junior Level
++ TypeScript
+    + Junior Level
 
 ### DB
 + RDS
@@ -28,14 +31,11 @@
 #### クラウドスキル
 + AWS
     + 基本的なAWSサービスは触れますが深くまではやってはいません。
-    + よく触ったサービス
-      + EC2 | S3 | ECS　| RDB
 + GCP
     + コアなサービスを除いて割と何でもやりました。
 + Azure
     + VM | RDB | ACS | Azure Active Directory
-+ herorku
-    + 微経験あり
+
 #### インフラスキル
 + Kubernetes
 + terraform | terraform cloud
@@ -43,7 +43,7 @@
     + Logs | Monitors | Metrics | Tracing | Dashboards
 
 ### CI/CDツール
-+ GitHub Actions | CircleCI | CloudBuild | ArgoCD | Spinnacker
++ GitHub Actions | CloudBuild | ArgoCD | Spinnacker | CircleCI
 
 ### その他技術
 + gRPC | microservice architecture
